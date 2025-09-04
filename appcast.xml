@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>neural browser 101</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Thu, 04 Sep 2025 08:29:45 +0500</pubDate>
+            <sparkle:version>1.0.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/rohan-shahid/neuralbrowserupdate/releases/download/prod/Neural.Browser.dmg" length="42332620" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
