@@ -5,7 +5,7 @@
         <item>
             <title>3.5</title>
             <pubDate>Tue, 02 Dec 2025 12:05:21 +0500</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>3.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/rohan-shahid/neuralbrowserupdate/releases/download/prod/Neural.Browser.dmg" length="105434154" type="application/octet-stream" sparkle:edSignature="GacGMryt7IwvLDkTNfrsTBCShS1I/TWk/SUPJat1xpv40pUSc/XMJ34/JE8PCLPCJHCTfaOZFPjllzqdUGhYDg=="/>
