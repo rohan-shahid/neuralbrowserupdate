@@ -3,12 +3,12 @@
     <channel>
         <title>Neural Browser</title>
         <item>
-            <title>6.5</title>
-            <pubDate>Fri, 19 Dec 2025 06:49:03 +0500</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>6.5</sparkle:shortVersionString>
+            <title>7.5</title>
+            <pubDate>Tue, 23 Dec 2025 11:33:11 +0500</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>7.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/rohan-shahid/neuralbrowserupdate/releases/download/prod/Neural.Browser.dmg" length="105609818" type="application/octet-stream" sparkle:edSignature="ZTNXPlVMTfTAcmwbOApLpElugi/qlVmIDSLAytEAiyH9n6vZQOm6/DQ3xGWmFpymPT7CyHLdLEdJeSV03CvUDw=="/>
+            <enclosure url="https://github.com/rohan-shahid/neuralbrowserupdate/releases/download/prod/Neural.Browser.dmg" length="106334256" type="application/octet-stream" sparkle:edSignature="xVkvgRJTVLaaMDTyXjS5e2pvJQLa9ikBXUoRZiiwRxv7eCNWrKvGwWIShTqzV/lWf1Z+mbWdOqrXTIDNpsuwCg=="/>
         </item>
     </channel>
 </rss>
